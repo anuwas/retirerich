@@ -1,0 +1,7 @@
+
+In Application.php line 615:
+                               
+  Command "foo" is not define  
+  d.                           
+                               
+
